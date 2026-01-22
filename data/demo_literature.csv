@@ -1,0 +1,6 @@
+SMILES,altID,LPM_Analysis,DE_Analysis,NR_Analysis,NC_Analysis,Status,Classification,ID,cLogP (cLogP),Quick Properties (AlogP),Quick Properties (AromaticHeavyAtomCount),Quick Properties (AromaticRingCount),Quick Properties (CarbonChiralCentersAll),Quick Properties (CarbonChiralCentersDefined),Quick Properties (ChiralCentersAll),Quick Properties (ChiralCentersDefined),Quick Properties (Estate),Quick Properties (FractionCSP3),Quick Properties (HBA),Quick Properties (HBD),Quick Properties (HeavyAtomCount),Quick Properties (MolarRefr),Quick Properties (MW),Quick Properties (MWExact),Quick Properties (PiElectronsCount),Quick Properties (PSA),Quick Properties (RingCount),Quick Properties (RotBonds)
+CCO,ALT-001,1,0,0,0,Known,Teratogenic,LT-001,0.1,0.2,0,0,0,0,0,0,5.0,0.5,1,1,3,8.2,46.1,46.0419,6,20.2,0,0
+c1ccccc1,ALT-002,0,0,1,0,Known,Non-teratogenic,LT-002,2.3,2.1,6,1,0,0,0,0,12.4,0.0,0,0,6,18.5,78.1,78.0469,30,0.0,1,0
+CCN(CC)CC,ALT-003,0,1,0,0,Known,Teratogenic,LT-003,1.4,1.2,0,0,0,0,0,0,9.8,0.6,1,0,7,16.7,101.2,101.1205,6,12.0,0,3
+CC(=O)O,ALT-004,0,0,0,1,Known,Non-teratogenic,LT-004,-0.3,-0.1,0,0,0,0,0,0,4.3,0.0,1,1,4,6.5,60.1,60.0211,6,26.0,0,1
+CC1=CC=CC=C1,ALT-005,1,1,0,0,Known,Teratogenic,LT-005,2.1,2.0,6,1,0,0,0,0,11.1,0.1,0,0,7,20.1,92.1,92.0626,30,0.0,1,0
